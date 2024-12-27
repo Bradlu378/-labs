@@ -1,0 +1,5 @@
+D:/projects/CPP/mitso/lab10/cmake-build-debug/CMakeFiles/lab10.dir
+D:/projects/CPP/mitso/lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/CPP/mitso/lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/projects/CPP/mitso/lab10/cmake-build-debug/CMakeFiles/lab10_autogen_timestamp_deps.dir
+D:/projects/CPP/mitso/lab10/cmake-build-debug/CMakeFiles/lab10_autogen.dir

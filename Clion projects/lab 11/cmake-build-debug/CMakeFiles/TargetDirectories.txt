@@ -1,0 +1,5 @@
+D:/projects/CPP/mitso/qtTest/cmake-build-debug/CMakeFiles/qtTest.dir
+D:/projects/CPP/mitso/qtTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/CPP/mitso/qtTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/projects/CPP/mitso/qtTest/cmake-build-debug/CMakeFiles/qtTest_autogen_timestamp_deps.dir
+D:/projects/CPP/mitso/qtTest/cmake-build-debug/CMakeFiles/qtTest_autogen.dir

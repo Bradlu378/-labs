@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtTest-Debug-aa3ec7da147aaae5b728.json",
+					"name" : "qtTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtTest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtTest_autogen-Debug-1f44eda6d964db403b19.json",
+					"name" : "qtTest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtTest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtTest_autogen_timestamp_deps-Debug-6d373349f4a5963399d0.json",
+					"name" : "qtTest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/projects/CPP/mitso/qtTest/cmake-build-debug",
+		"source" : "D:/projects/CPP/mitso/qtTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
