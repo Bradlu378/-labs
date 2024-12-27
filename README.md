@@ -6,7 +6,7 @@
 
 ## Описание
 - **IDE (Среда разработки)**: [CLion](https://www.jetbrains.com/clion/)
-- **Операционная система**: Windows 11 / Linux (fedora)
+- **Операционная система**: Windows 11 / Linux (fedora 41)
 - **Компилятор**: GCC (Linux), MinGW (Windows)
 - **Стандарт C++**: C++17
 
